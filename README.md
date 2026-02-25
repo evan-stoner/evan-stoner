@@ -1,16 +1,18 @@
-## Hi there 👋
+![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
 
-<!--
-**evan-stoner/evan-stoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Get Involved
 
-Here are some ideas to get you started:
+Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Explore featured projects](https://opensource.microsoft.com/projects/)
+* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
+* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
+* Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+and not [opensource@microsoft.com](mailto:opensource@microsoft.com) to ask questions specific to an individual Microsoft
+repository.
+
+Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+
+----
+
+Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
